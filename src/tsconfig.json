@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "allowSyntheticDefaultImports" : true,
+        "jsx" : "preserve",
+        "sourceMap" : true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "allowJs": true,
+        "checkJs": false,
+        "lib": [
+            "es6",
+            "dom"
+          ]
+    }
+}
